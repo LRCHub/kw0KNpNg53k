@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ルカルカ★ナイトフィーバー",
+  "base_artist": "実谷なな",
+  "createdAt": "2025-12-03T08:12:32.016113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー feat.実谷なな",
+      "artist": "Hommarju",
+      "has_synced": false,
+      "path": "select/01_ルカルカ★ナイトフィーバー_feat.実谷なな_Hommarju.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "SAM(samfree)",
+      "has_synced": true,
+      "path": "select/02_ルカルカ★ナイトフィーバー_SAM(samfree).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree",
+      "has_synced": true,
+      "path": "select/03_ルカルカ★ナイトフィーバー_samfree.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルカルカ☆ナイトフィーバー",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/04_ルカルカ☆ナイトフィーバー_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree feat. 巡音ルカ",
+      "has_synced": false,
+      "path": "select/05_ルカルカ★ナイトフィーバー_samfree_feat._巡音ルカ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー - Cover",
+      "artist": "Pastel*Palettes",
+      "has_synced": false,
+      "path": "select/06_ルカルカ★ナイトフィーバー_-_Cover_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree feat. Megurine, Luka",
+      "has_synced": false,
+      "path": "select/07_ルカルカ★ナイトフィーバー_samfree_feat._Megurine,_Luka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "Pastel*Palettes",
+      "has_synced": false,
+      "path": "select/08_ルカルカ★ナイトフィーバー_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree",
+      "has_synced": true,
+      "path": "select/09_ルカルカ★ナイトフィーバー_samfree.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー (Cover) - Luka Luka★Night Fever (Cover)",
+      "artist": "Pastel＊Palettes",
+      "has_synced": false,
+      "path": "select/10_ルカルカ★ナイトフィーバー_(Cover)_-_Luka_Luka★Night_Fever_(Cover)_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "530",
+      "has_synced": true,
+      "path": "select/11_ルカルカ★ナイトフィーバー_530.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "実谷なな",
+      "has_synced": true,
+      "path": "select/12_ルカルカ★ナイトフィーバー_実谷なな.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree & 巡音ルカ",
+      "has_synced": false,
+      "path": "select/13_ルカルカ★ナイトフィーバー_samfree_&_巡音ルカ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "BanG Dream!",
+      "has_synced": false,
+      "path": "select/14_ルカルカ★ナイトフィーバー_BanG_Dream!.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ルカルカ☆ナイトフィーバー",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/15_ルカルカ☆ナイトフィーバー_Kano.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/16_ルカルカ★ナイトフィーバー_Various.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "Miku Hatsune",
+      "has_synced": false,
+      "path": "select/17_ルカルカ★ナイトフィーバー_Miku_Hatsune.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "実谷なな",
+      "has_synced": false,
+      "path": "select/pl_01_ルカルカ★ナイトフィーバー_実谷なな.txt"
+    }
+  ]
+}
